@@ -8,6 +8,8 @@ namespace Git_Grupp.Models
 
         public int OkändVariabel { get; set; }
 
+        public string ? Error { get; set; }
+
         public bool ShowRequestId => !string.IsNullOrEmpty(RequestId);
     }
 }
