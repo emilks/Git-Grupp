@@ -18,10 +18,9 @@
         //Nu gör jag en kommentar som vi kallar för Oscar
 
         //Det här är den ändringen jag gjort nu kl 09.30
-        public float Rating { get; set; }
-
-        public int Type { get; set; }
+      
         //här comment marlin
+        //en ny comment efter solved
 
     }
 }
