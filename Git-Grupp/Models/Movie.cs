@@ -7,6 +7,7 @@
         public string? Title { get; set; }
 
         public DateTime CreatedDate { get; set; }
+        public int Type { get; set; }
 
     }
 }
