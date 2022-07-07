@@ -8,5 +8,11 @@
 
         public DateTime CreatedDate { get; set; }
 
+        //Det här är den ändringen jag gjort nu kl 09.30
+        public float Rating { get; set; }
+
+        //en ny ändringen Marlin
+        public int Type { get; set; }
+
     }
 }
