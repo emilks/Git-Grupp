@@ -10,6 +10,8 @@ namespace Git_Grupp.Models
 
         public string ? Error { get; set; }
 
+        public bool Sann { get; set; }
+
         public bool ShowRequestId => !string.IsNullOrEmpty(RequestId);
     }
 }
