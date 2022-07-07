@@ -15,5 +15,7 @@
         public float Rating { get; set; }
         public int Type { get; set; }
 
+        //Nu gör jag en kommentar som vi kallar för Oscar
+
     }
 }
